@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.827d6c27.js",
-    "static/js/787.5a9931b4.chunk.js": "/react-gh-pages/static/js/787.5a9931b4.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.827d6c27.js.map": "/react-gh-pages/static/js/main.827d6c27.js.map",
-    "787.5a9931b4.chunk.js.map": "/react-gh-pages/static/js/787.5a9931b4.chunk.js.map"
+    "main.css": "/lumed/static/css/main.073c9b0a.css",
+    "main.js": "/lumed/static/js/main.53399ccf.js",
+    "static/js/787.5a9931b4.chunk.js": "/lumed/static/js/787.5a9931b4.chunk.js",
+    "static/media/logo.svg": "/lumed/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lumed/index.html",
+    "main.073c9b0a.css.map": "/lumed/static/css/main.073c9b0a.css.map",
+    "main.53399ccf.js.map": "/lumed/static/js/main.53399ccf.js.map",
+    "787.5a9931b4.chunk.js.map": "/lumed/static/js/787.5a9931b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.827d6c27.js"
+    "static/js/main.53399ccf.js"
   ]
 }
