@@ -1,0 +1,106 @@
+.Home {
+    margin-left: 15%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+    max-width: 80%;
+    /* pointer-events: None; */
+    text-decoration: none !important;
+    color: rgba(44, 102, 144, 0.824);
+}
+
+.Home-div {
+    /* text-indent: 1%; */
+    text-decoration: none;
+    line-height: 1.5;
+    max-width: 80%;
+    /* pointer-events: None; */
+}
+
+.Home-img {
+    max-width: 80%;
+    /* pointer-events: None; */
+}
+
+.Home-rec{
+    display: flex;
+    margin-left: auto;
+    max-width: 40%;
+    /* margin-right: 3%; */
+    margin-top: 5%;
+    margin-bottom: 3%;
+    /* pointer-events: none; */
+}
+
+.Home-Photo {
+    display: flex;
+    margin-left: auto;
+    max-width: 80%;
+    /* margin-right: 3%; */
+    margin-top: 5%;
+    margin-bottom: 3%;
+    /* pointer-events: none; */
+}
+
+.Home-pic {
+    max-width: 40%;
+    display: flex;
+    flex-direction:column;
+    text-align: center;
+    text-decoration: none;
+    /* align-items: center; */
+    /* margin-right:3%; */
+    margin-left: 3%;
+}
+
+.Home-con{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5% ;
+    /* margin-left: 15%;
+    margin-right: 20%;
+    margin-bottom: 5%; */
+}
+
+.Home-s {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    text-decoration: none !important;
+    /* centers the text below the image */
+    font-size: 0.6em;
+    /* font size of the description */
+    margin-top: 0.6em;
+    /* adds a little space between the image and the description */
+    color: #555;
+    /* sets the description text color to a dark gray */
+}
+
+.Home-sp {
+    text-align: left;
+    max-width: 10%;
+    margin-right :3%;
+}
+
+.Home-d {
+    text-align: center;
+    text-decoration: none !important;
+    /* centers the text below the image */
+    font-size: 0.6em ;
+    /* font size of the description */
+    margin-top: 0.6em;
+    /* adds a little space between the image and the description */
+    color: #555;
+    /* sets the description text color to a dark gray */
+}
+
+@media screen and (max-width: 600px) {
+    .Home {
+        max-width: 90%;
+        font-size: small;
+        margin-left: 5%;
+    }
+
+    .Home-pic {
+        max-width: 40%;
+    }
+}
