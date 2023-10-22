@@ -1,8 +1,8 @@
 {
   "name": "lumed",
   "version": "0.1.0",
-  "homepage": "https://nikkylu.github.io/lumed",
-  "private": false,
+  "homepage": "https://nikkylu.github.io/",
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
