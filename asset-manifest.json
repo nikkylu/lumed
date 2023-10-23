@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lumed/static/css/main.866632f6.css",
-    "main.js": "/lumed/static/js/main.09c68fff.js",
+    "main.css": "/lumed/static/css/main.f219068d.css",
+    "main.js": "/lumed/static/js/main.dd491aef.js",
     "static/js/787.5a9931b4.chunk.js": "/lumed/static/js/787.5a9931b4.chunk.js",
     "static/media/Drainage Bags Tubes & Irrigation Set.jpg": "/lumed/static/media/Drainage Bags Tubes & Irrigation Set.7c6db6bf809bc0eda285.jpg",
     "static/media/Various Dental Products & Kits.jpg": "/lumed/static/media/Various Dental Products & Kits.eace5535a33a945f32cd.jpg",
@@ -44,12 +44,12 @@
     "static/media/r.jpg": "/lumed/static/media/r.fe7ddadf51a078c01b48.jpg",
     "static/media/logo-t.png": "/lumed/static/media/logo-t.c70e3824f62f3e0b071a.png",
     "index.html": "/lumed/index.html",
-    "main.866632f6.css.map": "/lumed/static/css/main.866632f6.css.map",
-    "main.09c68fff.js.map": "/lumed/static/js/main.09c68fff.js.map",
+    "main.f219068d.css.map": "/lumed/static/css/main.f219068d.css.map",
+    "main.dd491aef.js.map": "/lumed/static/js/main.dd491aef.js.map",
     "787.5a9931b4.chunk.js.map": "/lumed/static/js/787.5a9931b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.866632f6.css",
-    "static/js/main.09c68fff.js"
+    "static/css/main.f219068d.css",
+    "static/js/main.dd491aef.js"
   ]
 }
