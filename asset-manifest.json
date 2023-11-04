@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lumed/static/css/main.466a1f48.css",
-    "main.js": "/lumed/static/js/main.08ab5878.js",
+    "main.js": "/lumed/static/js/main.c6d180bf.js",
     "static/js/787.5a9931b4.chunk.js": "/lumed/static/js/787.5a9931b4.chunk.js",
     "static/media/Other.png": "/lumed/static/media/Other.e60f37464162b9daff86.png",
     "static/media/Other 2.png": "/lumed/static/media/Other 2.5b3d2b987150096f9ee2.png",
@@ -88,11 +88,11 @@
     "static/media/logo-t.png": "/lumed/static/media/logo-t.c70e3824f62f3e0b071a.png",
     "index.html": "/lumed/index.html",
     "main.466a1f48.css.map": "/lumed/static/css/main.466a1f48.css.map",
-    "main.08ab5878.js.map": "/lumed/static/js/main.08ab5878.js.map",
+    "main.c6d180bf.js.map": "/lumed/static/js/main.c6d180bf.js.map",
     "787.5a9931b4.chunk.js.map": "/lumed/static/js/787.5a9931b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.466a1f48.css",
-    "static/js/main.08ab5878.js"
+    "static/js/main.c6d180bf.js"
   ]
 }
