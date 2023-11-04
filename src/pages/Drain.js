@@ -10,6 +10,7 @@ import "./Home.css"
 const Drain = () => {
   return (
 <div className="Home">
+    <div>Drainage Bags, Tubes & Irrigation Set</div>
     <div className="Home-con">
     <img src={image1} className="Home-sp"/>
     <div className="Home-s">

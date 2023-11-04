@@ -11,6 +11,7 @@ import e from "/Users/nikkylu/lumed/src/pages/components/band/e.jpg";
 const Band = () => {
   return (
   <div className="Home">
+    <div>Elastic Bandages</div>
       <div className="Home-con">
       <img src={a} className="Home-sp"/>
       <div className="Home-s">

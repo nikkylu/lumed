@@ -18,6 +18,8 @@ import p from "/Users/nikkylu/lumed/src/pages/components/pic/Various Dental Prod
 import q from "/Users/nikkylu/lumed/src/pages/components/pic/Various Surgical Device Kits.jpeg";
 import r from "/Users/nikkylu/lumed/src/pages/components/pic/Various Surgical Dressing Device Kits.jpeg";
 import s from "/Users/nikkylu/lumed/src/pages/components/pic/Various Wound Dressings.jpeg";
+import t from "/Users/nikkylu/lumed/src/pages/components/pic/Other.png";
+import grey from "/Users/nikkylu/lumed/src/pages/components/pic/grey.jpg";
 
 
 import { Link } from 'react-router-dom';
@@ -30,99 +32,137 @@ const Home = () => {
 
         <div className="Home-Photo">
           <div className="Home-pic">
-            <img src={j} />
-            <Link to="/Premium" className="Home-d">New Premium Quality Recommended</Link>
+            <Link to="/Premium">
+              <img src={j} alt="New Premium Quality Recommended" />
+              <div className="Home-d">New Premium Quality Recommended</div>
+            </Link>
           </div>
           <div className="Home-pic">
-            <img src={o} />
-            <Link to="/Needle" className="Home-d">Syringes & Needles</Link>
+            <Link to="/Needle">
+              <img src={o} alt="Syringes & Needles" />
+              <div className="Home-d">Syringes & Needles</div>
+            </Link>
           </div>
           <div className="Home-pic">
-            <img src={g} />
-            <Link to="/Infusion" className="Home-d">Infusions</Link>
+            <Link to="/Infusion">
+              <img src={g} alt="Infusions" />
+              <div className="Home-d">Infusions</div>
+            </Link>
           </div>
           <div className="Home-pic">
-            <img src={b} />
-            <Link to="/Blood" className="Home-d">Blood Collection & Transfusion & Filterings</Link>
+            <Link to="/Blood">
+              <img src={b} alt="Blood Collection & Transfusion & Filtering" />
+              <div className="Home-d">Blood Collection & Transfusion & Filterings</div>
+            </Link>
           </div>
-       
+        </div>
+        
+        <div className="Home-Photo">
+          <div className="Home-pic">
+            <Link to="/Drain">
+              <img src={d} alt="Drainage Bags Tubes & Irrigation Set" />
+              <div className="Home-d">Drainage Bags, Tubes & Irrigation Set</div>
+            </Link>
+          </div>
+          <div className="Home-pic">
+            <Link to="/Thermo">
+              <img src={i} alt="Mercury-Free Oval Thermometers Digital Thermometers" />
+              <div className="Home-d">Mercury-Free Oval Thermometers, Digital Thermometers</div>
+            </Link>
+          </div>
+          <div className="Home-pic">
+            <Link to="/Sphy">
+              <img src={l} alt="Sphygmomanometer Stethoscope & Tourniquet Tougue Depressor & ID-Band" />
+              <div className="Home-d">Sphygmomanometer Stethoscope, Tourniquet Tougue Depressor, ID-Band</div>
+            </Link>
+          </div>
+          <div className="Home-pic">
+            <Link to="/Glove">
+              <img src={h} alt="Latex/Nitrile Surgical Gloves & Condoms" />
+              <div className="Home-d">Latex/Nitrile Surgical Gloves, Condoms</div>
+            </Link>
+          </div>
         </div>
 
         <div className="Home-Photo">
           <div className="Home-pic">
-            <img src={d} />
-            <Link to="/Drain" className="Home-d">Drainage Bags Tubes & Irrigation Set</Link>
-          </div>
-           <div className="Home-pic">
-            <img src={i} />
-            <Link to="/Thermo" className="Home-d">Mercury-Free Oval Thermometers Digital Thermometers</Link>
+            <Link to="/Blade">
+              <img src={n} alt="Surgical Blades Scalpels & Sutures Sterilization Swabs etc." />
+              <div className="Home-d">Surgical Blades, Scalpels, Sutures, Sterilization Swabs etc.</div>
+            </Link>
           </div>
           <div className="Home-pic">
-            <img src={l} />
-            <Link to="/Sphy" className="Home-d">Sphygmomanometer Stethoscope & Tourniquet Tougue Depressor & ID-Band</Link>
+            <Link to="/Dressing">
+              <img src={q} alt="Various Surgical Device Kits" />
+              <div className="Home-d">Various Surgical Dressing & Device Kits, Various Dental Products & Kits</div>
+            </Link>
           </div>
           <div className="Home-pic">
-            <img src={h} />
-            <Link to="/Glove" className="Home-d">Latex/Nitrile Surgical Gloves & Condoms</Link>
+            <Link to="/Breath">
+              <img src={f} alt="Endo-Tube & TT-Tube Suction Tube Breathing Circuits Masks" />
+              <div className="Home-d">Breathing Circuits & Masks, Endo-Tube, TT-Tube, Suction Tube</div>
+            </Link>
+          </div>
+          <div className="Home-pic">
+            <Link to="/Gauze">
+              <img src={c} alt="Cotton & Gauze" />
+              <div className="Home-d">Cotton & Gauze</div>
+            </Link>
           </div>
         </div>
 
         <div className="Home-Photo">
-          <div className="Home-pic">
-            <img src={n} />
-            <Link to="/Blade" className="Home-d">Surgical Blades Scalpels & Sutures Sterilization Swabs etc.</Link>
-          </div>
-          <div className="Home-pic">
-            <img src={q} />
-            <Link to="/Device" className="Home-d">Various Surgical Device Kits</Link>
-          </div>
-          <div className="Home-pic">
-            <img src={r} />
-            <Link to="/Dressing" className="Home-d">Various Surgical Dressing Device Kits</Link>
-          </div>
-          <div className="Home-pic">
-            <img src={p} />
-            <Link to="/Dental" className="Home-d">Various Dental Products & Kits</Link>
-          </div>
           
+          <div className="Home-pic">
+            <Link to="/Paris">
+              <img src={k} alt="Plaster Of Paris Bandages Synthetic Casting Bandages Orthopaedic Paddings" />
+              <div className="Home-d">Plaster Of Paris Bandages, Synthetic Casting Bandages, Orthopaedic Paddings</div>
+            </Link>
+          </div>
+          <div className="Home-pic">
+            <Link to="/Band">
+              <img src={e} alt="Elastic Bandages" />
+              <div className="Home-d">Elastic Bandages</div>
+            </Link>
+          </div>
+          <div className="Home-pic">
+            <Link to="/Wound">
+              <img src={s} alt="Various Wound Dressings" />
+              <div className="Home-d">Various Wound Dressings</div>
+            </Link>
+          </div>
+          <div className="Home-pic">
+            <Link to="/Tape">
+              <img src={a} alt="Adhesive Tapes" />
+              <div className="Home-d">Adhesive Tapes</div>
+            </Link>
+          </div>
         </div>
 
         <div className="Home-Photo">
+    
           <div className="Home-pic">
-            <img src={f} />
-            <Link to="/Breath" className="Home-d">Endo-Tube & TT-Tube Suction Tube Breathing Circuits Masks</Link>
+            <Link to="/Glown">
+              <img src={m} alt="Surgical: Isolation Gowns & Face Masks etc." />
+              <div className="Home-d">Surgical/Isolation Gowns, Face Masks etc.</div>
+            </Link>
           </div>
           <div className="Home-pic">
-            <img src={c} />
-            <Link to="/Gauze" className="Home-d">Cotton & Gauze</Link>
+            <Link to="/Other">
+              <img src={t} alt="Other Products" />
+              <div className="Home-d">Other Products</div>
+            </Link>
           </div>
           <div className="Home-pic">
-            <img src={k} />
-            <Link to="/Paris" className="Home-d">Plaster Of Paris Bandages Synthetic Casting Bandages Orthopaedic Paddings</Link>
+            <img src={grey} alt="Other Products" />
+            <div className="Home-holder"></div>
           </div>
           <div className="Home-pic">
-            <img src={e} />
-            <Link to="/Band" className="Home-d">Elastic Bandages</Link>
+            <img src={grey} alt="Other Products" />
+            <div className="Home-holder"></div>
           </div>
+
         </div>
-
-
-
-        <div className="Home-Photo">
-          <div className="Home-pic">
-            <img src={s} />
-            <Link to="/Wound" className="Home-d">Various Wound Dressings</Link>
-          </div>     
-          <div className="Home-pic">
-            <img src={a} />
-            <Link to="/Tape" className="Home-d">Adhesive Tapes</Link>
-          </div>
-          <div className="Home-pic">
-            <img src={m} />
-            <Link to="/Glown" className="Home-d">Surgical: Isolation Gowns & Face Masks etc.</Link>
-          </div>
-        </div>
-
 
       </div>
     </div>
@@ -130,3 +170,5 @@ const Home = () => {
 };
 
 export default Home;
+
+

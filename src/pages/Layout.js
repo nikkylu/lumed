@@ -13,14 +13,17 @@ const Layout = () => {
             <img src={logot} className='Layout-img'></img>
             <div className='margin-2'>Lumed Medical Dressings and Devices</div>
             <Link to="/" className="Layout-sidebar">Product Overview</Link>
+            <Link to="/Profile" className="Layout-sidebar">Contact</Link>
             <Link to="/News" className="Layout-sidebar">News</Link>
-            <Link to="/Profile" className="Layout-sidebar">Profile</Link>
+            
             {/* <Link to="/Premium" className="Layout-sidebar">New Premium Quality Recommended</Link>
             <Link to="/Band" className="Layout-sidebar">Elastic Bandages</Link>
             <Link to="/Tape" className="Layout-sidebar">Adhesive Tape</Link>
             <Link to="/Gauze" className="Layout-sidebar">Cotton & Gauze</Link>
             <Link to="/Wound" className="Layout-sidebar">Wound Dressings</Link> */}
           </div>
+          <Link to="/" className="Layout-button">Back</Link>
+          
         </div>
       </div>
 

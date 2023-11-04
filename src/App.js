@@ -23,6 +23,7 @@ import Dressing from "./pages/Dressing";
 import Needle from "./pages/Needle";
 import Thermo from "./pages/Thermo";
 import Profile from "./pages/Profile";
+import Other from "./pages/Other";
 import "./App.css";
 
 export default function App() {
@@ -52,6 +53,7 @@ export default function App() {
           <Route path="Needle" element={<Needle />} />
           <Route path="Thermo" element={<Thermo />} />
           <Route path="Profile" element={<Profile />} />
+          <Route path="Other" element={<Other />} />
         </Route>
       </Routes>
     </BrowserRouter>

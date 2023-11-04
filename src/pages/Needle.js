@@ -20,11 +20,12 @@ import "./Home.css"
 const Needle = () => {
   return (
 <div className="Home">
+    <div>Syringes & Needles</div>
     <div className="Home-con">
-    <div className="Home-s">
+    <div className="Home-sl">
         <div>Syringes</div>
     </div>
-</div>
+    </div>
     <div className="Home-con">
     <img src={image1} className="Home-sp"/>
     <div className="Home-s">
@@ -106,7 +107,7 @@ const Needle = () => {
     </div>
 </div>
     <div className="Home-con">
-    <div className="Home-s">
+    <div className="Home-sl">
         <div>Needles</div>
     </div>
 </div>

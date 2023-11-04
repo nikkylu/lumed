@@ -14,6 +14,7 @@ import "./Home.css"
 const Sphy = () => {
   return (
 <div className="Home">
+    <div>Sphygmomanometer Stethoscope, Tourniquet Tougue Depressor, ID-Band</div>
     <div className="Home-con">
     <img src={image1} className="Home-sp"/>
     <div className="Home-s">

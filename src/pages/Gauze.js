@@ -21,6 +21,7 @@ const Tape = () => {
 
   return (
     <div className="Home">
+        <div>Cotton & Gauze</div>
 
 <div className="Home-con">
     <img src={a} className="Home-sp"/>

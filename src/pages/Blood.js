@@ -14,6 +14,11 @@ import "./Home.css"
 const Blood = () => {
   return (
 <div className="Home">
+    <div>Blood Collection & Transfusion & Filterings </div>
+    <div className="Home-con">
+    <div className="Home-sl">
+        Blood Collection
+    </div></div>
    <div className="Home-con">
     <img src={image1} className="Home-sp"/>
     <div className="Home-s">
@@ -62,7 +67,10 @@ const Blood = () => {
         <div>Blood Absorbent Sponges</div>
     </div>
 </div>
-
+ <div className="Home-con">
+    <div className="Home-sl">
+        Blood Transfusion
+    </div></div>
 <div className="Home-con">
     <img src={image6} className="Home-sp"/>
     <div className="Home-s">
@@ -92,7 +100,10 @@ const Blood = () => {
         <div>Blood Pressure Infuser, various sizes</div>
     </div>
 </div>
-
+<div className="Home-con">
+    <div className="Home-sl">
+        Blood Filtering
+    </div></div>
 <div className="Home-con">
     <img src={image10} className="Home-sp"/>
     <div className="Home-s">

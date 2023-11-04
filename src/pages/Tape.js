@@ -8,6 +8,7 @@ import f from "/Users/nikkylu/lumed/src/pages/components/tape/f.jpg";
 const Tape = () => {
   return (
     <div className="Home">
+        <div>Adhesive Tapes</div>
             <div className="Home-con">
     <img src={a} className="Home-sp"/>
     <div className="Home-s">

@@ -17,6 +17,20 @@
 
 }
 
+.Layout-button{
+    background-color: #ffffff;
+    margin-left:8%;
+    /* Green */
+    border: none;
+    color: rgba(44, 102, 144, 0.824);
+    padding: 0.4% 0.6%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 0.6em;
+    border-radius: 10%;
+}
+
 .Layout-img {
     max-width: 6%;
 }
@@ -40,3 +54,14 @@
 /* .Layout-bar:active {
     color: azure;
 } */
+
+@media screen and (max-width: 600px) {
+    .Layout {
+        max-width: 90%;
+        font-size: medium;
+        margin-left: 5%;
+    }
+    .Layout img{
+        max-width: 15%;
+    }
+}

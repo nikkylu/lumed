@@ -12,8 +12,8 @@ const News = () => {
   ];
 
   return (
-    <div>
-      <strong>News:</strong>
+    <div className="Home">
+      <div>News:</div>
       {newsItems.map((item, index) => (
         <div className="Home-t" key={index}>{item}</div>
       ))}

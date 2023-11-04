@@ -8,6 +8,7 @@ import "./Home.css"
 const Breath = () => {
   return (
 <div className="Home">
+    <div>Breathing Circuits & Masks, Endo-Tube, TT-Tube, Suction Tube</div>
     <div className="Home-con">
     <img src={image1} className="Home-sp"/>
     <div className="Home-s">

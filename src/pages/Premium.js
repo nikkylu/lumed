@@ -15,10 +15,12 @@ import m from "/Users/nikkylu/lumed/src/pages/components/premium/m.jpg";
 import n from "/Users/nikkylu/lumed/src/pages/components/premium/n.jpg";
 import o from "/Users/nikkylu/lumed/src/pages/components/premium/o.jpg";
 import p from "/Users/nikkylu/lumed/src/pages/components/premium/o.jpg";
+import { Link } from 'react-router-dom';
 
 const Premium = () => {
   return (
 <div className="Home">
+    <div>New Premium Quality Recommended</div>
     <div className="Home-con">
         <img src={a} className="Home-sp"/>
         <div className="Home-s">
@@ -130,15 +132,18 @@ const Premium = () => {
     <div className="Home-con">
         <img src={o} className="Home-sp"/>
         <div className="Home-s">
-            <div>Various Device Kits</div>
-            <div>Pls refer to this section for details.</div>
+            <Link to="/Device">
+            Various Device Kits
+            </Link>
+            <div>Please refer to this section for details.</div>
         </div>
     </div>
 
     <div className="Home-con">
         <img src={p} className="Home-sp"/>
         <div className="Home-s">
-            <div>Various Device & Dressing Kits.</div>
+            <Link to="/Dressing">Various Device & Dressing Kits.</Link>
+            <div>Please refer to this section for details.</div>
         </div>
     </div>
 

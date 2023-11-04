@@ -10,6 +10,7 @@ import "./Home.css"
 const Infusion = () => {
   return (
 <div className="Home">
+    <div>Infusions</div>
     <div className="Home-con">
     <img src={image1} className="Home-sp"/>
     <div className="Home-s">

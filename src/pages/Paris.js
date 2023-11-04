@@ -7,6 +7,7 @@ import "./Home.css"
 const Paris = () => {
   return (
 <div className="Home">
+    <div> Plaster Of Paris Bandages, Synthetic Casting Bandages, Orthopaedic Paddings</div>
     <div className="Home-con">
     <img src={image1} className="Home-sp"/>
     <div className="Home-s">

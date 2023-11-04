@@ -10,6 +10,7 @@ import "./Home.css"
 const Glown = () => {
   return (
 <div className="Home">
+    <div>Surgical/Isolation Gowns, Face Masks etc.</div>
     <div className="Home-con">
     <img src={image1} className="Home-sp"/>
     <div className="Home-s">

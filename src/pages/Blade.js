@@ -24,6 +24,11 @@ import "./Home.css"
 const Blade = () => {
   return (
 <div className="Home">
+    <div>Surgical Blades, Scalpels, Sutures, Sterilization Swabs etc.</div>
+    <div className="Home-con">
+    <div className="Home-sl">
+        Surgical Blades, Saclpels, and Sutures
+    </div></div>
     <div className="Home-con">
     <img src={image1} className="Home-sp"/>
     <div className="Home-s">
@@ -105,7 +110,7 @@ const Blade = () => {
 
 <div className="Home-con">
     {/* <img src={image10} className="Home-sp"/> */}
-    <div className="Home-s">
+    <div className="Home-sl">
         <div>Sterilization Swabs</div>
     </div>
 </div>

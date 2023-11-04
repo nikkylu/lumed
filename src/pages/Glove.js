@@ -6,6 +6,7 @@ import "./Home.css"
 const Glove = () => {
   return (
 <div className="Home">
+    <div>Latex/Nitrile Surgical Gloves, Condoms</div>
     <div className="Home-con">
     <img src={image1} className="Home-sp"/>
     <div className="Home-s">

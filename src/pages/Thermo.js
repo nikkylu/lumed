@@ -8,6 +8,7 @@ import "./Home.css"
 const Thermo = () => {
   return (
 <div className="Home">
+    <div>Mercury-Free Oval Thermometers, Digital Thermometers</div>
    <div className="Home-con">
     <img src={image1} className="Home-sp"/>
     <div className="Home-s">

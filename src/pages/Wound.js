@@ -27,6 +27,7 @@ const Wound = () => {
   return (
     
     <div className="Home">
+        <div>Various Wound Dressings</div>
         <div className="Home-con">
     <img src={a} className="Home-sp"/>
     <div className="Home-s">
