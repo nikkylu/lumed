@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lumed/static/css/main.77f604a6.css",
-    "main.js": "/lumed/static/js/main.ba61b1b9.js",
+    "main.css": "/lumed/static/css/main.392a1f64.css",
+    "main.js": "/lumed/static/js/main.6d7d35db.js",
     "static/js/787.5a9931b4.chunk.js": "/lumed/static/js/787.5a9931b4.chunk.js",
     "static/media/Other.png": "/lumed/static/media/Other.e60f37464162b9daff86.png",
     "static/media/Other 2.png": "/lumed/static/media/Other 2.5b3d2b987150096f9ee2.png",
@@ -31,6 +31,7 @@
     "static/media/image044.jpg": "/lumed/static/media/image044.6bd4aae1330389104524.jpg",
     "static/media/image048.jpg": "/lumed/static/media/image048.4181022e0509349c1aa7.jpg",
     "static/media/image043.jpg": "/lumed/static/media/image043.a4e2d0b9f0f1e34cc668.jpg",
+    "static/media/logo-text.png": "/lumed/static/media/logo-text.959f0dd5e4c071b038af.png",
     "static/media/image051.jpg": "/lumed/static/media/image051.d460c69fa0487eb6083f.jpg",
     "static/media/image020.jpg": "/lumed/static/media/image020.b7734fe40ccf11838c47.jpg",
     "static/media/image050.jpg": "/lumed/static/media/image050.2c546bed005d7debc205.jpg",
@@ -87,12 +88,12 @@
     "static/media/grey.jpg": "/lumed/static/media/grey.ca7b9923453bb6227197.jpg",
     "static/media/logo-t.png": "/lumed/static/media/logo-t.c70e3824f62f3e0b071a.png",
     "index.html": "/lumed/index.html",
-    "main.77f604a6.css.map": "/lumed/static/css/main.77f604a6.css.map",
-    "main.ba61b1b9.js.map": "/lumed/static/js/main.ba61b1b9.js.map",
+    "main.392a1f64.css.map": "/lumed/static/css/main.392a1f64.css.map",
+    "main.6d7d35db.js.map": "/lumed/static/js/main.6d7d35db.js.map",
     "787.5a9931b4.chunk.js.map": "/lumed/static/js/787.5a9931b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77f604a6.css",
-    "static/js/main.ba61b1b9.js"
+    "static/css/main.392a1f64.css",
+    "static/js/main.6d7d35db.js"
   ]
 }
