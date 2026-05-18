@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lumed/static/css/main.a7777d29.css",
-    "main.js": "/lumed/static/js/main.f1a1a545.js",
+    "main.css": "/lumed/static/css/main.248afae4.css",
+    "main.js": "/lumed/static/js/main.7e99aa61.js",
     "static/js/787.5a9931b4.chunk.js": "/lumed/static/js/787.5a9931b4.chunk.js",
     "static/media/Other.png": "/lumed/static/media/Other.e60f37464162b9daff86.png",
     "static/media/Other 2.png": "/lumed/static/media/Other 2.5b3d2b987150096f9ee2.png",
@@ -28,10 +28,10 @@
     "static/media/Plaster Of Paris Bandages Synthetic Casting Bandages Orthopaedic Paddings.jpeg": "/lumed/static/media/Plaster Of Paris Bandages Synthetic Casting Bandages Orthopaedic Paddings.5e0083dfb58d95314bc8.jpeg",
     "static/media/image047.jpg": "/lumed/static/media/image047.61fc943b29725e01fb98.jpg",
     "static/media/h.png": "/lumed/static/media/h.148c0d671074018041f9.png",
+    "static/media/1045.jpg": "/lumed/static/media/1045.f737fd0edc6364f7ee2f.jpg",
     "static/media/image044.jpg": "/lumed/static/media/image044.6bd4aae1330389104524.jpg",
     "static/media/image048.jpg": "/lumed/static/media/image048.4181022e0509349c1aa7.jpg",
     "static/media/image043.jpg": "/lumed/static/media/image043.a4e2d0b9f0f1e34cc668.jpg",
-    "static/media/logo-text.png": "/lumed/static/media/logo-text.959f0dd5e4c071b038af.png",
     "static/media/image051.jpg": "/lumed/static/media/image051.d460c69fa0487eb6083f.jpg",
     "static/media/image020.jpg": "/lumed/static/media/image020.b7734fe40ccf11838c47.jpg",
     "static/media/image050.jpg": "/lumed/static/media/image050.2c546bed005d7debc205.jpg",
@@ -76,6 +76,7 @@
     "static/media/image001.png": "/lumed/static/media/image001.7c639d0ef3f50cbe7db9.png",
     "static/media/p.jpg": "/lumed/static/media/p.68a0d3edceb4e5d28a81.jpg",
     "static/media/image005.png": "/lumed/static/media/image005.e34cada7dd2ba2ed41d3.png",
+    "static/media/logo-text.png": "/lumed/static/media/logo-text.d296d4d4981f5e6f1192.png",
     "static/media/h.jpg": "/lumed/static/media/h.2872ec616719d14857d7.jpg",
     "static/media/i.jpg": "/lumed/static/media/i.c742ba9889bc89c25de9.jpg",
     "static/media/image011.png": "/lumed/static/media/image011.981da9c1cbe9c148b976.png",
@@ -85,15 +86,15 @@
     "static/media/image010.png": "/lumed/static/media/image010.d0dbfe68e2b24242b685.png",
     "static/media/image007.png": "/lumed/static/media/image007.70cb5122c4b1ef4652e7.png",
     "static/media/r.jpg": "/lumed/static/media/r.fe7ddadf51a078c01b48.jpg",
-    "static/media/grey.jpg": "/lumed/static/media/grey.ca7b9923453bb6227197.jpg",
-    "static/media/logo-t.png": "/lumed/static/media/logo-t.c70e3824f62f3e0b071a.png",
+    "static/media/1044.jpg": "/lumed/static/media/1044.4e0e48d5d09a05440476.jpg",
+    "static/media/1043.jpg": "/lumed/static/media/1043.f4d13f9d28e1acb564d6.jpg",
     "index.html": "/lumed/index.html",
-    "main.a7777d29.css.map": "/lumed/static/css/main.a7777d29.css.map",
-    "main.f1a1a545.js.map": "/lumed/static/js/main.f1a1a545.js.map",
+    "main.248afae4.css.map": "/lumed/static/css/main.248afae4.css.map",
+    "main.7e99aa61.js.map": "/lumed/static/js/main.7e99aa61.js.map",
     "787.5a9931b4.chunk.js.map": "/lumed/static/js/787.5a9931b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7777d29.css",
-    "static/js/main.f1a1a545.js"
+    "static/css/main.248afae4.css",
+    "static/js/main.7e99aa61.js"
   ]
 }
