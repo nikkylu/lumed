@@ -1,7 +1,7 @@
 {
   "name": "lumed",
   "version": "0.1.0",
-  "homepage": "https://nikkylu.github.io/lumed",
+  "homepage": "https://lu-med.com",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
