@@ -9,6 +9,8 @@ import image8 from "/Users/nikkylu/lumed/src/pages/components/blood.fld/image008
 import image9 from "/Users/nikkylu/lumed/src/pages/components/blood.fld/image009.jpg";
 import image10 from "/Users/nikkylu/lumed/src/pages/components/blood.fld/image010.jpg";
 import image11 from "/Users/nikkylu/lumed/src/pages/components/blood.fld/image011.png";
+import glucose1 from "/Users/nikkylu/lumed/src/pages/components/blood.fld/1043.jpg";
+import glucose2 from "/Users/nikkylu/lumed/src/pages/components/blood.fld/1044.jpg";
 import "./Home.css"
 
 const Blood = () => {
@@ -65,6 +67,15 @@ const Blood = () => {
     <img src={image5} className="Home-sp"/>
     <div className="Home-s">
         <div>Blood Absorbent Sponges</div>
+    </div>
+</div>
+
+<div className="Home-con">
+    <img src={glucose1} className="Home-sp" alt="Blood glucose meter" />
+    <img src={glucose2} className="Home-sp" alt="Blood glucose meter" />
+    <div className="Home-s">
+        <div>Blood Glucose Meter, CE</div>
+        <div>various models available</div>
     </div>
 </div>
  <div className="Home-con">

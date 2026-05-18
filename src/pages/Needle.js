@@ -14,6 +14,7 @@ import image13 from "/Users/nikkylu/lumed/src/pages/components/needle.fld/image0
 import image14 from "/Users/nikkylu/lumed/src/pages/components/needle.fld/image014.jpg";
 import image15 from "/Users/nikkylu/lumed/src/pages/components/needle.fld/image015.jpg";
 import image16 from "/Users/nikkylu/lumed/src/pages/components/needle.fld/image016.jpg";
+import amber from "/Users/nikkylu/lumed/src/pages/components/needle.fld/1045.jpg";
 
 import "./Home.css"
 
@@ -104,6 +105,15 @@ const Needle = () => {
     <div className="Home-s">
         <div>Single-Use Auto-destructive Syringes, sterile, ISO 7886, CE</div>
         <p>1ml, 3ml, 5ml, 10ml, 20ml</p>
+    </div>
+</div>
+
+<div className="Home-con">
+    <img src={amber} className="Home-sp" alt="Amber syringes" />
+    <div className="Home-s">
+        <div>Amber Syringes, sterile, ISO 7886, CE</div>
+        <p>Amber lugifugal syringes</p>
+        <p>luer / luer lock, various sizes</p>
     </div>
 </div>
     <div className="Home-con">
