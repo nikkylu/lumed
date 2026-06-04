@@ -112,7 +112,7 @@ const Needle = () => {
     <img src={amber} className="Home-sp" alt="Amber syringes" />
     <div className="Home-s">
         <div>Amber Syringes, sterile, ISO 7886, CE</div>
-        <p>Amber lugifugal syringes</p>
+        <p>Amber syringes for light sensitive medications</p>
         <p>luer / luer lock, various sizes</p>
     </div>
 </div>

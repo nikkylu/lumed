@@ -67,7 +67,7 @@ const Layout = () => {
             </div>
             <p className="site-footer__about">
               Hangzhou Lumed Commercial Co., Ltd. — a trusted supplier of certified
-              medical devices and dressings to distributors and hospitals across Europe.
+              medical devices and dressings to distributors in EU and worldwide.
             </p>
             <div className="cert-row" aria-label="Certifications and standards">
               <span className="cert-pill">CE</span>
@@ -106,7 +106,8 @@ const Layout = () => {
             <p>Rm 1-1919, East King Plaza,<br />No. 1 Yue-wang Rd,<br />310006 Hangzhou, Zhejiang, P.R. China</p>
             <p>
               <a href="tel:+8657187072941">+86-571-87072941</a><br />
-              <a href="mailto:lumedico@outlook.com">lumedico@outlook.com</a>
+              <a href="mailto:lumedico@outlook.com">lumedico@outlook.com</a><br />
+              <a href="mailto:konca@189.cn">konca@189.cn</a>
             </p>
           </div>
         </div>

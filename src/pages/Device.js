@@ -7,6 +7,7 @@ import image6 from "/Users/nikkylu/lumed/src/pages/components/devicekit.fld/imag
 import image7 from "/Users/nikkylu/lumed/src/pages/components/devicekit.fld/image007.jpg";
 import image8 from "/Users/nikkylu/lumed/src/pages/components/devicekit.fld/image008.jpg";
 import image9 from "/Users/nikkylu/lumed/src/pages/components/devicekit.fld/image009.jpg";
+import image10 from "/Users/nikkylu/lumed/src/pages/components/blood.fld/image010.jpg";
 
 import "./Home.css"
 
@@ -72,6 +73,7 @@ const Device = () => {
         <div>Disposable Nasal Oxygen Tubes</div>
     </div>
 </div><div className="Home-con">
+    <img src={image10} className="Home-sp"/>
     <div className="Home-s">
         <div>Disposable Haemodialysers</div>
     </div>

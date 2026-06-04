@@ -15,7 +15,7 @@ const Profile = () => {
             over three decades of expertise to the medical devices and
             dressings sector. Our commitment to certified quality, competitive
             pricing, and dependable service has made us a trusted partner for
-            European distributors and hospitals.
+            distributors across Europe and other global regions.
           </p>
           <p className="profile__body">
             We supply a comprehensive catalog of CE-marked and ISO-certified
@@ -30,8 +30,8 @@ const Profile = () => {
               <p>CE, ISO 13485, EN 455, ASTM and ISO 7886 / 7864 / 8536 across our range.</p>
             </div>
             <div className="pillar">
-              <h3>European focus</h3>
-              <p>Documentation, labelling and logistics tailored for EU distributors.</p>
+              <h3>Worldwide supply</h3>
+              <p>Documentation, labelling and logistics tailored for worldwide distributors.</p>
             </div>
             <div className="pillar">
               <h3>Reliable supply</h3>

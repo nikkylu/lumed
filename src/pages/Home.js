@@ -31,7 +31,7 @@ const categories = [
   { to: "/Thermo",   img: i, title: "Thermometers",                         desc: "Mercury-free oval and digital — ISO 12470-1." },
   { to: "/Sphy",     img: l, title: "Diagnostic Instruments",               desc: "Sphygmomanometers, stethoscopes, tourniquets, ID bands." },
   { to: "/Glove",    img: h, title: "Surgical Gloves & Condoms",            desc: "Latex / nitrile — EN 455, ASTM 3577, ISO 4074." },
-  { to: "/Blade",    img: n, title: "Surgical Blades, Scalpels & Sutures",  desc: "Sterilization swabs and surgical sharps." },
+  { to: "/Blade",    img: n, title: "Surgical Blades, Scalpels & Sutures",  desc: "Surgical Blades, Scalpels, Sutures, Sterilization Swabs" },
   { to: "/Device",   img: q, title: "Surgical Device Kits",                 desc: "Pre-assembled kits for clinical procedures." },
   { to: "/Dressing", img: r, title: "Surgical Dressing & Device Kits",      desc: "Specialty kits across all major surgical disciplines." },
   { to: "/Dental",   img: p, title: "Dental Products & Kits",               desc: "Consumables and instrument sets for dental clinics." },
@@ -127,8 +127,8 @@ const Home = () => {
       <section className="cta-band">
         <div className="cta-band__inner">
           <div>
-            <h2>Looking for a reliable European supply partner?</h2>
-            <p>Tell us your volumes and specifications — we'll respond as soon as possible.</p>
+            <h2>Looking for a reliable Chinese supply partner?</h2>
+            <p>Tell us your demands, volumes and specifications — we'll respond as soon as possible.</p>
           </div>
           <a href="mailto:lumedico@outlook.com" className="btn btn--primary btn--lg">
             Get in touch

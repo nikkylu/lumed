@@ -1,6 +1,6 @@
 import a from "/Users/nikkylu/lumed/src/pages/components/tape/a.jpg";
 import b from "/Users/nikkylu/lumed/src/pages/components/tape/b.jpg";
-import c from "/Users/nikkylu/lumed/src/pages/components/tape/c.jpg";
+import c from "/Users/nikkylu/lumed/src/pages/components/tape/c.jpeg";
 import d from "/Users/nikkylu/lumed/src/pages/components/tape/d.jpg";
 import e from "/Users/nikkylu/lumed/src/pages/components/tape/e.jpg";
 import f from "/Users/nikkylu/lumed/src/pages/components/tape/f.jpg";

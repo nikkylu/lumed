@@ -14,7 +14,7 @@ import l from "/Users/nikkylu/lumed/src/pages/components/premium/l.jpg";
 import m from "/Users/nikkylu/lumed/src/pages/components/premium/m.jpg";
 import n from "/Users/nikkylu/lumed/src/pages/components/premium/n.jpg";
 import o from "/Users/nikkylu/lumed/src/pages/components/premium/o.jpg";
-import p from "/Users/nikkylu/lumed/src/pages/components/premium/o.jpg";
+import p from "/Users/nikkylu/lumed/src/pages/components/premium/p.jpg";
 import { Link } from 'react-router-dom';
 
 const Premium = () => {
