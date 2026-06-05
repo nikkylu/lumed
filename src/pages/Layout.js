@@ -107,13 +107,14 @@ const Layout = () => {
             <p>
               <a href="tel:+8657187072941">+86-571-87072941</a><br />
               <a href="mailto:lumedico@outlook.com">lumedico@outlook.com</a><br />
-              <a href="mailto:konca@189.cn">konca@189.cn</a>
+              <a href="mailto:konca@189.cn">konca@189.cn</a><br /><br />
+              <a href="https://www.lu-med.com" target="_blank" rel="noopener noreferrer">www.lu-med.com</a>
             </p>
           </div>
         </div>
         <div className="site-footer__bottom">
-          <span>© {new Date().getFullYear()} Hangzhou Lumed Commercial Co., Ltd. All rights reserved.</span>
-          <span>Established 2009 · Serving European partners worldwide</span>
+          <span>© {new Date().getFullYear()} Hangzhou Lumed Commercial Co., Ltd. <br /> All rights reserved.</span>
+          <span>Established 2009 · Serving partners worldwide</span>
         </div>
       </footer>
     </div>

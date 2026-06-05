@@ -128,7 +128,7 @@ const Home = () => {
         <div className="cta-band__inner">
           <div>
             <h2>Looking for a reliable Chinese supply partner?</h2>
-            <p>Tell us your demands, volumes and specifications — we'll respond as soon as possible.</p>
+            <p>Tell us your demands, quantities and specifications — we'll respond as soon as possible.</p>
           </div>
           <a href="mailto:lumedico@outlook.com" className="btn btn--primary btn--lg">
             Get in touch
