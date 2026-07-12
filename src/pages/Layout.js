@@ -103,6 +103,7 @@ const Layout = () => {
 
           <div className="site-footer__col">
             <h4 className="site-footer__title">Contact</h4>
+            <p>Hangzhou Lumed Commercial Co., Ltd. </p>
             <p>Rm 1-1919, East King Plaza,<br />No. 1 Yue-wang Rd,<br />310006 Hangzhou, Zhejiang, P.R. China</p>
             <p>
               <a href="tel:+8657187072941">+86-571-87072941</a><br />
